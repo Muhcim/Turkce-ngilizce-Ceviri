@@ -1,0 +1,11 @@
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\bin\Debug\TürkçeyiİngilizceyeCevir.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\bin\Debug\TürkçeyiİngilizceyeCevir.exe
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\bin\Debug\TürkçeyiİngilizceyeCevir.pdb
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\bin\Debug\Skytells.API.Explorer.dll
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\bin\Debug\Skytells.API.Explorer.pdb
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.exe
+c:\users\everest\documents\visual studio 2013\Projects\TürkçeyiİngilizceyeCevir\TürkçeyiİngilizceyeCevir\obj\Debug\TürkçeyiİngilizceyeCevir.pdb

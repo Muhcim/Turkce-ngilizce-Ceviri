@@ -1,0 +1,77 @@
+﻿Skytells API Explorer.
+Version : 1.0
+
+============================================================================
+What's Skytells Graph Explorer ?
+
+A. Use the Skytells API Explorer to quickly and simply integrate your products with Skytells's API.
+
+Where is the references for Skytells API Explorer ?
+A. Please visit : https://developers.skytells.net/docs
+============================================================================
+
+
+
+
+============================================================================
+REGISTERATION
+============================================================================
+In order to use Skytells's API, you must have a Skytells Developer Account.
+Its Free and always will be.
+
+In order to signup as developer, Go to this page below
+https://www.skytells.net/signup
+
+Then, Grant your API Key.
+
+============================================================================
+
+
+
+============================================================================
+SDK REFERENCES
+============================================================================
+
+1. SkytellsApiExplorer => Namespace
+2. SkytellsClient => The API Handler => Class.
+
+
+Whats Inside SkytellsClient?
+
+SkytellsApiExplorer 	[Namespace]
+---SkytellsClient 	[Class]
+------- Post		[object]
+------- PostAsync 	[object]
+------- Get	 	[object]
+------- GetAsync	[object]
+
+============================================================================
+
+
+
+============================================================================
+BASICS - HOW TO USE ?
+============================================================================
+First, You must have an Skytells Account with valid API Key.
+
+You need to call SkytellsClient (CLASS) with your API KEY
+
+EG. : SkytellsClient s = new SkytellsClient("KEY");
+
+============================================================================
+
+
+
+============================================================================
+DEMOS - HOW TO LOOKUP AN IP?
+============================================================================
+using SkytellsApiExplorer; // namespace
+
+SkytellsClient s = new SkytellsClient("KEY"); // Perform new client with our API Key
+string str = s.Get("me/ip"); // Make Request
+Console.WriteLine(str); // Print Answer
+
+============================================================================
+
+
+
